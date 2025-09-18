@@ -17,7 +17,7 @@
 <div align="center">
   <img src="https://cdn.simpleicons.org/html5/E34F26" width="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" width="40" alt="css3 logo"  />
+  <img src="https://cdn.simpleicons.org/css/1572B6" width="40" alt="css logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" alt="javascript logo"  />
   <img width="12" />
