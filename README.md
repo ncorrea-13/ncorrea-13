@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🎓 Systems Engineering student | 💻 Full-stack Developer | 🔒 Cybersecurity Enthusiast Passionate about secure software development and best practices in the field. Always eager to learn and contribute to innovative projects.</p>
+<p align="left">🎓 Systems Engineering student | 💻 Full-stack Developer | 🔒 Cybersecurity Enthusiast | 🐧 Linux & Open-source Advocate Passionate about secure software development and always eager to contribute to innovative projects.</p>
 
 ###
 
