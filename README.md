@@ -26,8 +26,6 @@
   <img src="https://cdn.simpleicons.org/react/61DAFB" width="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="40" alt="bootstrap logo"  />
 </div>
 
 ###
@@ -36,8 +34,6 @@
   <img src="https://cdn.simpleicons.org/python/3776AB" width="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" width="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="java logo"  />
   <img width="12" />
