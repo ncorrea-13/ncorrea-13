@@ -1,18 +1,17 @@
-<h1 align="center">Hello. I'm Nicolás 👋</h1>
+## Hi. I'm Nicolás 👋
 
-###
+### 👩‍💻  About Me
 
-<h3 align="left">👩‍💻  About Me</h3>
+I am passionate about secure software development and always eager to contribute to innovative projects.
 
-###
+- 🎓 Advanced system engineering student
+- 💻 Full-stack Developer
+- 🔒 Cybersecurity Enthusiast
+- 🐧 Linux & Open-source Advocate
 
-<p align="left">🎓 Systems Engineering student | 💻 Full-stack Developer | 🔒 Cybersecurity Enthusiast | 🐧 Linux & Open-source Advocate Passionate about secure software development and always eager to contribute to innovative projects.</p>
+---
 
-###
-
-<h2 align="left">🛠 Language and tools</h2>
-
-###
+## 🛠 Language and tools
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/html5/E34F26" width="40" alt="html5 logo"  />
@@ -28,7 +27,7 @@
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="40" alt="tailwindcss logo"  />
 </div>
 
-###
+<br />
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/python/3776AB" width="40" alt="python logo"  />
@@ -44,7 +43,7 @@
   <img src="https://cdn.simpleicons.org/express/000000" width="40" alt="express logo"  />
 </div>
 
-###
+<br />
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="40" alt="postgresql logo"  />
@@ -54,7 +53,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="mysql logo"  />
 </div>
 
-###
+<br />
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/neovim/57A143" width="40" alt="neovim logo"  />
@@ -69,31 +68,23 @@
 
 </div>
 
-###
+## My stats
 
-<h2 align="left">My stats</h2>
-
-###
+<br />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ncorrea-13&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=ncorrea-13&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=true&order=1&custom_title=Stats" height="150" alt="stats graph"  />
 </div>
 
-###
-
-<h2 align="left">Contact me</h2>
-
-###
+## Contact me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/nicolas-correa-serrat/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /> 
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="mailto:correanicolas1910@gmail.com?Subject=Message%20from%20GitHub" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  /> 
-  </a>
-  <a href="https://wa.me/5492613400264?text=I'm%20interested%20in%20your%20GitHub%20profile " target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
+
