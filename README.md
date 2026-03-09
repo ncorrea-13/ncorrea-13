@@ -2,12 +2,12 @@
 
 ### 👩‍💻  About Me
 
-I am passionate about secure software development and always eager to contribute to innovative projects.
+I am a Systems Engineering student and Full-stack Developer passionate about secure software development and always eager to contribute to innovative projects.
 
-- 🎓 Advanced system engineering student
-- 💻 Full-stack Developer
-- 🔒 Cybersecurity Enthusiast
+- 🎓 Advanced Systems Engineering Student
+- 🔒 Cybersecurity & AppSec Enthusiast
 - 🐧 Linux & Open-source Advocate
+- 🏠 Self-hosting & HomeLab Hobbyist
 
 ---
 
@@ -64,9 +64,21 @@ I am passionate about secure software development and always eager to contribute
   <img width="12" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" width="40" alt="docker logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg" width="40" alt="podman logo" />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" width="40" alt="postman logo"  />
 
 </div>
+
+## 🏠 Personal HomeLab & Infrastructure
+*Managing my own server to master networking and private cloud management.*
+
+> **Hardware:** Raspberry Pi 4 (4GB) + Dual Drive NAS (Main & Backup Strategy)
+
+- 🖥️ **OS & Management:** Debian (RPi OS Lite) managed via **Cockpit** & **OpenMediaVault**.
+- 🔐 **Privacy & Security:** **Vaultwarden** for passwords & **Tailscale** Mesh VPN for secure access.
+- 🛡️ **Network:** **Pi-hole + Unbound** with **DNS over TLS (DoT)** via Quad9.
+- 🐳 **Containerization (Podman):** **Immich** (Photo backup), **Uptime Kuma** (Monitoring), **Filebrowser**, and **Homepage**.
 
 ## My stats
 
