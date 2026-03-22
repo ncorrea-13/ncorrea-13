@@ -1,13 +1,30 @@
 ## Hi. I'm Nicolás 👋
 
-### 👩‍💻  About Me
+### About Me
 
 I am a Systems Engineering student and Full-stack Developer passionate about secure software development and always eager to contribute to innovative projects.
 
-- 🎓 Advanced Systems Engineering Student
-- 🔒 Cybersecurity & AppSec Enthusiast
-- 🐧 Linux & Open-source Advocate
-- 🏠 Self-hosting & HomeLab Hobbyist
+- Advanced Systems Engineering Student
+- Cybersecurity & AppSec Enthusiast
+- Linux & Open-source Advocate
+- Self-hosting & HomeLab Hobbyist
+
+---
+
+## Currently Working On
+
+- **Software Developer @ [AYSAM]**
+  - Building full-stack solutions within the **Oracle Ecosystem** (**APEX** & **PL/SQL**).
+  - Designing and implementing secure **RESTful APIs** and microservices.
+
+---
+
+## Featured Repositories
+
+- **[My HomeLab](https://github.com/ncorrea-13/homeserver)**: Private cloud infrastructure with automated backups and secure remote access on RPi 4.
+- **[Personal Dotfiles](https://github.com/ncorrea-13/dotfiles)**: Minimalist and efficient development environment based on TUI tools like Neovim, Zellij and Sway.
+- **[CVAE & CGAN Book Generator](https://github.com/ncorrea-13/generadorLibros)**: Collaborative deep learning project using generative models to synthesize text structures.
+- **[Microservices Project](https://github.com/ncorrea-13/mailMicroservicio)**: Mail service architecture with RESTful APIs, focused on scalability and modularity (GPLv3).
 
 ---
 
@@ -70,16 +87,6 @@ I am a Systems Engineering student and Full-stack Developer passionate about sec
 
 </div>
 
-## 🏠 Personal HomeLab & Infrastructure
-*Managing my own server to master networking and private cloud management.*
-
-> **Hardware:** Raspberry Pi 4 (4GB) + Dual Drive NAS (Main & Backup Strategy)
-
-- 🖥️ **OS & Management:** Debian (RPi OS Lite) managed via **Cockpit** & **OpenMediaVault**.
-- 🔐 **Privacy & Security:** **Vaultwarden** for passwords & **Tailscale** Mesh VPN for secure access.
-- 🛡️ **Network:** **Pi-hole + Unbound** with **DNS over TLS (DoT)** via Quad9.
-- 🐳 **Containerization (Podman):** **Immich** (Photo backup), **Uptime Kuma** (Monitoring), **Filebrowser**, and **Homepage**.
-
 ## My stats
 
 <br />
@@ -90,13 +97,12 @@ I am a Systems Engineering student and Full-stack Developer passionate about sec
 </div>
 
 ## Contact me
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/nicolas-correa-serrat/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/nicolas-correa-serrat/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin" />
   </a>
-  <a href="mailto:ncorrea13@proton.me?Subject=Message%20from%20GitHub" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="mailto:ncorrea13@proton.me">
+    <img src="https://img.shields.io/static/v1?message=ProtonMail&logo=protonmail&label=&color=6D4AFF&logoColor=white&style=for-the-badge" height="25" alt="protonmail" />
   </a>
 </div>
 
