@@ -19,7 +19,7 @@ I am a Systems Engineering student and Full-stack Developer passionate about sec
 
 - **[My HomeLab](https://github.com/ncorrea-13/homeserver)**: Private cloud infrastructure with automated backups and secure remote access on RPi 4.
 - **[Personal Dotfiles](https://github.com/ncorrea-13/dotfiles)**: Minimalist and efficient development environment based on TUI tools like Neovim, Zellij and Sway.
-- **[CVAE & CGAN Book Generator](https://github.com/ncorrea-13/generadorLibros)**: Collaborative deep learning project using generative models to synthesize text structures.
+- **[CVAE & CGAN Book Generator](https://github.com/ncorrea-13/generadorLibros)**: Collaborative deep learning project using generative models to synthesize text structures (GPLv3).
 - **[Microservices Project](https://github.com/ncorrea-13/mailMicroservicio)**: Mail service architecture with RESTful APIs, focused on scalability and modularity (GPLv3).
 
 ---
