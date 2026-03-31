@@ -2,18 +2,18 @@
 
 ### About Me
 
-I am a Systems Engineering student and Full-stack Developer passionate about secure software development and always eager to contribute to innovative projects.
+I am an advanced Systems Engineering student and Full-stack Developer focused on building secure, scalable software. I’m a passionate advocate for Open-source, Linux, and the "TUI-first" philosophy.
 
-- Advanced Systems Engineering Student
-- Cybersecurity & AppSec Enthusiast
+- Oracle APEX, PL/SQL, React, and Node.js.
+- Focus on AppSec, RESTful Architecture, and Microservices.
 - Linux & Open-source Advocate
-- Self-hosting & HomeLab Hobbyist
+- Self-hosting and HomeLab automation (RPi 4).
 
 ## Currently Working On
 
-- **Software Developer @ [AYSAM]**
-  - Building full-stack solutions within the **Oracle Ecosystem** (**APEX** & **PL/SQL**).
-  - Designing and implementing secure **RESTful APIs** and microservices.
+- **Software Developer @ AYSAM**
+  - Building full-stack solutions within the Oracle Ecosystem.
+  - Designing and implementing secure RESTful APIs and microservices for production environments.
 
 ## Featured Repositories
 
