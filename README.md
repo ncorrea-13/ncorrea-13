@@ -62,6 +62,19 @@ Systems Engineering student and full-stack developer with a growing itch for inf
 <br />
 
 <div align="center">
+  <p align="center"><strong>Databases</strong></p>
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/sqlite/003B57" width="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" alt="oracle logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="mysql logo"  />
+</div>
+
+<br />
+
+<div align="center">
   <p align="center"><strong>System programming</strong></p>
   <img src="https://cdn.simpleicons.org/rust/FFFFFF" height="40" alt="rust logo" />
   <img width="12" />
@@ -82,7 +95,7 @@ Systems Engineering student and full-stack developer with a growing itch for inf
 <br />
 
 <div align="center">
-  <p align="center"><strong>AI agents</strong></p>
+  <p align="center"><strong>AI-assisted development</strong></p>
   <img src="https://cdn.simpleicons.org/claude/D97757" width="40" alt="claude logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/opencode-dark.svg" width="30" alt="opencode logo" />
@@ -90,17 +103,6 @@ Systems Engineering student and full-stack developer with a growing itch for inf
   <img src="https://api.iconify.design/simple-icons/githubcopilot.svg?color=%23FFFFFF" width="40" alt="github copilot logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="40" alt="gemini logo" />
-</div>
-  
-<br />
-
-<div align="center">
-  <p align="center"><strong>Databases</strong></p>
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/sqlite/003B57" width="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="mysql logo"  />
 </div>
 
 <br />
