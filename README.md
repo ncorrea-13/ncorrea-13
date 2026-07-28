@@ -2,31 +2,33 @@
 
 ### About Me
 
-I am an advanced Systems Engineering student and Full-stack Developer focused on building secure, scalable software. I’m a passionate advocate for Open-source, Linux, and the "TUI-first" philosophy.
-
-- Oracle APEX, PL/SQL, React, and Node.js.
-- Focus on AppSec, RESTful Architecture, and Microservices.
-- Linux & Open-source Advocate
-- Self-hosting and HomeLab automation (RPi 4).
+Systems Engineering student and full-stack developer with a growing itch for infrastructure. I run my own homelab, favor self-hosted tools over managed ones, and like understanding a system all the way down. Currently trading React for Go and chasing a DevOps/Platform Engineering role.
 
 ## Currently Working On
 
-- **Software Developer @ AYSAM**
+- **Full-stack Developer @ AYSAM**
   - Building full-stack solutions within the Oracle Ecosystem.
-  - Designing and implementing secure RESTful APIs and microservices for production environments.
+  - Designing and implementing secure RESTful APIs for production environments.
+  - Python microservices to hook up industrial systems through Docker.
+
+- **Learning Go**, my ticket into DevOps/Platform Engineering roles.
 
 ## Featured Repositories
 
-- **[My HomeLab](https://github.com/ncorrea-13/homeserver)**: Private cloud infrastructure with automated backups and secure remote access on RPi 4.
-- **[Personal Dotfiles](https://github.com/ncorrea-13/dotfiles)**: Minimalist and efficient development environment based on TUI tools like Neovim, Zellij and Sway.
-- **[CVAE & CGAN Book Generator](https://github.com/ncorrea-13/generadorLibros)**: Collaborative deep learning project using generative models to synthesize text structures (GPLv3).
-- **[Microservices Project](https://github.com/ncorrea-13/mailMicroservicio)**: Mail service architecture with RESTful APIs, focused on scalability and modularity (GPLv3).
+- **[Bw-tui](https://github.com/ncorrea-13/bw-tui)**: A Bitwarden TUI client written in Rust. _(GPLv3)_
+- **[Weathertui](https://github.com/ncorrea-13/weathertui)**: A TUI for checking the weather written in Go. _(GPLv3)_
+- **[My HomeLab](https://github.com/ncorrea-13/homeserver)**: Private cloud infrastructure with automated backups and secure remote access. _(MIT)_
+- **[Simple Portfolio](https://github.com/ncorrea-13/homeserver-landing)**: Simple landing page to show my experience and my projects. Currenly only in Spanish. _(MIT)_
+- **[Personal Dotfiles](https://github.com/ncorrea-13/dotfiles)**: Minimalist and efficient development environment based on TUI tools like Neovim, Zellij and Sway. _(MIT)_
+- **[CVAE & CGAN Book Generator](https://github.com/ncorrea-13/generadorLibros)**: Collaborative deep learning project using generative models to synthesize text structures. _(GPLv3)_
+- **[Mail Microservice](https://github.com/ncorrea-13/mailMicroservicio)**: Mail service architecture with RESTful APIs, focused on scalability and modularity. _(GPLv3)_
 
 ---
 
 ## Language and tools
 
 <div align="center">
+  <p align="center"><strong>Frontend</strong></p>
   <img src="https://cdn.simpleicons.org/html5/E34F26" width="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/css/1572B6" width="40" alt="css logo"  />
@@ -37,28 +39,63 @@ I am an advanced Systems Engineering student and Full-stack Developer focused on
   <img width="12" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" width="40" alt="react logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" height="40" alt="nextjs logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="40" alt="tailwindcss logo"  />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="40" alt="pytorch logo"  />
-  <img width="12" />
+  <p align="center"><strong>Backend</strong></p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/spring/6DB33F" width="40" alt="spring logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="nodejs logo"  />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/express/000000" width="40" alt="express logo"  />
+  <img src="https://cdn.simpleicons.org/express/FFFFFF" width="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="prisma logo"  />
 </div>
 
 <br />
 
 <div align="center">
+  <p align="center"><strong>System programming</strong></p>
+  <img src="https://cdn.simpleicons.org/rust/FFFFFF" height="40" alt="rust logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+</div>
+  
+<br />
+
+<div align="center">
+  <p align="center"><strong>Machine Learning</strong></p>
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="40" alt="streamlit logo" />
+</div>
+  
+<br />
+
+<div align="center">
+  <p align="center"><strong>AI agents</strong></p>
+  <img src="https://cdn.simpleicons.org/claude/D97757" width="40" alt="claude logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/opencode-dark.svg" width="30" alt="opencode logo" />
+  <img width="12" />
+  <img src="https://api.iconify.design/simple-icons/githubcopilot.svg?color=%23FFFFFF" width="40" alt="github copilot logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="40" alt="gemini logo" />
+</div>
+  
+<br />
+
+<div align="center">
+  <p align="center"><strong>Databases</strong></p>
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/sqlite/003B57" width="40" alt="sqlite logo"  />
@@ -69,27 +106,29 @@ I am an advanced Systems Engineering student and Full-stack Developer focused on
 <br />
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/neovim/57A143" width="40" alt="neovim logo"  />
+  <p align="center"><strong>Sysadmin</strong></p>
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" width="40" alt="git logo"  />
+  <img src="https://cdn.simpleicons.org/vim/019733" height="40" alt="vim logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" width="40" alt="docker logo"  />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg" width="40" alt="podman logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="40" alt="postman logo"  />
-
+  <img src="https://cdn.simpleicons.org/docker/2496ED" width="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/wireguard/88171A" width="40" alt="wireguard logo" />
 </div>
-
-## My stats
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ncorrea-13&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=ncorrea-13&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=true&order=1&custom_title=Stats" height="150" alt="stats graph"  />
+  <p align="center"><strong>Other tools</strong></p>
+  <img src="https://cdn.simpleicons.org/neovim/57A143" width="40" alt="neovim logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" width="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="40" alt="postman logo"  />
 </div>
 
 ## Contact me
