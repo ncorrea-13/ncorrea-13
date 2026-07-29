@@ -29,17 +29,17 @@ Systems Engineering student and full-stack developer with a growing itch for inf
 <p align="center"><strong>Frontend</strong></p>
 <p align="center">
   <img src="https://cdn.simpleicons.org/html5/E34F26" width="40" alt="html5 logo" />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/css/1572B6" width="40" alt="css logo" />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" alt="javascript logo" />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/typescript/3178C6" width="40" alt="typescript logo" />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/react/61DAFB" width="40" alt="react logo" />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" height="40" alt="nextjs logo" />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="40" alt="tailwindcss logo" />
 </p>
 
@@ -48,13 +48,13 @@ Systems Engineering student and full-stack developer with a growing itch for inf
 <p align="center"><strong>Backend</strong></p>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="java logo" />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/spring/6DB33F" width="40" alt="spring logo" />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo" />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/express/FFFFFF" width="40" alt="express logo" />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="prisma logo" />
 </p>
 
@@ -63,11 +63,11 @@ Systems Engineering student and full-stack developer with a growing itch for inf
 <p align="center"><strong>Databases</strong></p>
 <p align="center">
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="40" alt="postgresql logo" />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/sqlite/003B57" width="40" alt="sqlite logo" />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" alt="oracle logo" />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="mysql logo" />
 </p>
 
@@ -76,7 +76,7 @@ Systems Engineering student and full-stack developer with a growing itch for inf
 <p align="center"><strong>System programming</strong></p>
 <p align="center">
   <img src="https://cdn.simpleicons.org/rust/FFFFFF" height="40" alt="rust logo" />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo" />
 </p>
 
@@ -85,9 +85,9 @@ Systems Engineering student and full-stack developer with a growing itch for inf
 <p align="center"><strong>Machine Learning</strong></p>
 <p align="center">
   <img src="https://cdn.simpleicons.org/python/3776AB" width="40" alt="python logo" />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="40" alt="pytorch logo" />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="40" alt="streamlit logo" />
 </p>
 
@@ -96,11 +96,11 @@ Systems Engineering student and full-stack developer with a growing itch for inf
 <p align="center"><strong>AI-assisted development</strong></p>
 <p align="center">
   <img src="https://cdn.simpleicons.org/claude/D97757" width="40" alt="claude logo" />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/opencode-dark.svg" width="30" alt="opencode logo" />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://api.iconify.design/simple-icons/githubcopilot.svg?color=%23FFFFFF" width="40" alt="github copilot logo" />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="40" alt="gemini logo" />
 </p>
 
@@ -109,15 +109,15 @@ Systems Engineering student and full-stack developer with a growing itch for inf
 <p align="center"><strong>Sysadmin</strong></p>
 <p align="center">
   <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux logo" />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/vim/019733" height="40" alt="vim logo" />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo" />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg" width="40" alt="podman logo" />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/docker/2496ED" width="40" alt="docker logo" />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/wireguard/88171A" width="40" alt="wireguard logo" />
 </p>
 
@@ -126,9 +126,9 @@ Systems Engineering student and full-stack developer with a growing itch for inf
 <p align="center"><strong>Other tools</strong></p>
 <p align="center">
   <img src="https://cdn.simpleicons.org/neovim/57A143" width="40" alt="neovim logo" />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/git/F05032" width="40" alt="git logo" />
-  <img width="12" />
+  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/postman/FF6C37" width="40" alt="postman logo" />
 </p>
 
