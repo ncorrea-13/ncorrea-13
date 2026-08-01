@@ -18,10 +18,7 @@ Systems Engineering student and full-stack developer with a growing itch for inf
 - **[Bw-tui](https://github.com/ncorrea-13/bw-tui)**: A Bitwarden TUI client written in Rust. _(GPLv3)_
 - **[Weathertui](https://github.com/ncorrea-13/weathertui)**: A TUI for checking the weather written in Go. _(GPLv3)_
 - **[My HomeLab](https://github.com/ncorrea-13/homeserver)**: Private cloud infrastructure with automated backups and secure remote access. _(MIT)_
-- **[Simple Portfolio](https://github.com/ncorrea-13/homeserver-landing)**: Simple landing page to show my experience and my projects. Currenly only in Spanish. _(MIT)_
 - **[Personal Dotfiles](https://github.com/ncorrea-13/dotfiles)**: Minimalist and efficient development environment based on TUI tools like Neovim, Zellij and Sway. _(MIT)_
-- **[CVAE & CGAN Book Generator](https://github.com/ncorrea-13/generadorLibros)**: Collaborative deep learning project using generative models to synthesize text structures. _(GPLv3)_
-- **[Mail Microservice](https://github.com/ncorrea-13/mailMicroservicio)**: Mail service architecture with RESTful APIs, focused on scalability and modularity. _(GPLv3)_
 
 ---
 ## Language and tools
