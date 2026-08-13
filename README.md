@@ -44,15 +44,17 @@ Systems Engineering student and full-stack developer with a growing itch for inf
 
 <p align="center"><strong>Backend</strong></p>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="java logo" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/spring/6DB33F" width="40" alt="spring logo" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="40" alt="python logo" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/express/FFFFFF" width="40" alt="express logo" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="prisma logo" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="java logo" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/spring/6DB33F" width="40" alt="spring logo" />
 </p>
 
 <br />
@@ -75,17 +77,6 @@ Systems Engineering student and full-stack developer with a growing itch for inf
   <img src="https://cdn.simpleicons.org/rust/FFFFFF" height="40" alt="rust logo" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo" />
-</p>
-
-<br />
-
-<p align="center"><strong>Machine Learning</strong></p>
-<p align="center">
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="40" alt="python logo" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="40" alt="pytorch logo" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="40" alt="streamlit logo" />
 </p>
 
 <br />
