@@ -11,6 +11,11 @@ Systems Engineering student and full-stack developer with a growing itch for inf
   - Designing and implementing secure RESTful APIs for production environments.
   - Python microservices to hook up industrial systems through Docker.
 
+- **Systems Engineering Final Project @ UTN**
+  - Building **PetHood**, a comprehensive platform connecting pet care services.
+  - Designing a scalable architecture with a React Native mobile client and a Node.js backend
+  - Featuring Docker containerization and automated CI/CD pipelines.
+
 - **Learning Go**, my ticket into DevOps/Platform Engineering roles.
 
 ## Featured Repositories
@@ -19,7 +24,6 @@ Systems Engineering student and full-stack developer with a growing itch for inf
 - **[Weathertui](https://github.com/ncorrea-13/weathertui)**: A TUI for checking the weather written in Go. _(GPLv3)_
 - **[My HomeLab](https://github.com/ncorrea-13/homeserver)**: Private cloud infrastructure with automated backups and secure remote access. _(MIT)_
 - **[Personal Dotfiles](https://github.com/ncorrea-13/dotfiles)**: Minimalist and efficient development environment based on TUI tools like Neovim, Zellij and Sway. _(MIT)_
-
 ---
 ## Language and tools
 
