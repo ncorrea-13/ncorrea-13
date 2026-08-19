@@ -12,8 +12,8 @@ Systems Engineering student and full-stack developer with a growing itch for inf
   - Python microservices to hook up industrial systems through Docker.
 
 - **Systems Engineering Final Project @ UTN**
-  - Building **PetHood**, a comprehensive platform connecting pet care services.
-  - Designing a scalable architecture with a React Native mobile client and a Node.js backend
+  - Building **PetHood**, a comprehensive platform connecting pet care services written in TypeScript.
+  - Designing a scalable architecture with a React Native mobile client and an Express backend using Prisma ORM.
   - Featuring Docker containerization and automated CI/CD pipelines.
 
 - **Learning Go**, my ticket into DevOps/Platform Engineering roles.
