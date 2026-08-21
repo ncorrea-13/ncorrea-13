@@ -1,4 +1,4 @@
-## Hi. I'm Nicolás 👋
+## Hi. I'm Nicolás
 
 ### About Me
 
