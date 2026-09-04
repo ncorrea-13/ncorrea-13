@@ -48,6 +48,8 @@ Systems Engineering student and full-stack developer with a growing itch for inf
 
 <p align="center"><strong>Backend</strong></p>
 <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo" />
+  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/python/3776AB" width="40" alt="python logo" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo" />
@@ -72,15 +74,6 @@ Systems Engineering student and full-stack developer with a growing itch for inf
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" alt="oracle logo" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="mysql logo" />
-</p>
-
-<br />
-
-<p align="center"><strong>System programming</strong></p>
-<p align="center">
-  <img src="https://cdn.simpleicons.org/rust/FFFFFF" height="40" alt="rust logo" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo" />
 </p>
 
 <br />
