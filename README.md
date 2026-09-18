@@ -16,12 +16,16 @@ Systems Engineering student and full-stack developer with a growing itch for inf
   - Designing a scalable architecture with a React Native mobile client and an Express backend using Prisma ORM.
   - Featuring Docker containerization and automated CI/CD pipelines.
 
-- **Learning Go**, my ticket into DevOps/Platform Engineering roles.
+- **Personal Infrastructure @ Self-Hosted Homelab**
+  - Self-hosted three-node infrastructure (ThinkCentre + Raspberry Pi + Android monitoring node) running Podman pods for identity, storage, media and observability.
+  - Tailscale-only access with UFW default-deny, Caddy reverse proxy, and on-demand Funnel exposure via a local webhook.
+  - Public status API (Go) fed by Uptime Kuma push events, plus a documentation site — both exposed via Cloudflare Tunnel.
+  - Rootless Podman, systemd user services, and daily/weekly backup rotation across dedicated HDDs.
 
 ## Featured Repositories
 
 - **[Bw-tui](https://github.com/ncorrea-13/bw-tui)**: A Bitwarden TUI client written in Rust. _(GPLv3)_
-- **[Weathertui](https://github.com/ncorrea-13/weathertui)**: A TUI for checking the weather written in Go. _(GPLv3)_
+- **[Rolboard](https://github.com/ncorrea-13/rolboard)**: A full-stack solution for managing TTRPG writen in Go and TypeScript. _(MIT)_
 - **[My HomeLab](https://github.com/ncorrea-13/homeserver)**: Private cloud infrastructure with automated backups and secure remote access. _(MIT)_
 - **[Personal Dotfiles](https://github.com/ncorrea-13/dotfiles)**: Minimalist and efficient development environment based on TUI tools like Neovim, Zellij and Sway. _(MIT)_
 ---
