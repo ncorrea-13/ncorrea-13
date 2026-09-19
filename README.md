@@ -18,8 +18,9 @@ Systems Engineering student and full-stack developer with a growing itch for inf
 
 - **Personal Infrastructure @ Self-Hosted Homelab**
   - Self-hosted three-node infrastructure (ThinkCentre + Raspberry Pi + Android monitoring node) running Podman pods for identity, storage, media and observability.
+  - Dedicated lab node running KVM/QEMU virtual machines for red team exercises and platform engineering experiments.
   - Tailscale-only access with UFW default-deny, Caddy reverse proxy, and on-demand Funnel exposure via a local webhook.
-  - Public status API (Go) fed by Uptime Kuma push events, plus a documentation site — both exposed via Cloudflare Tunnel.
+  - Public status API (Go) fed by Uptime Kuma push events, plus a documentation site. Both exposed via Cloudflare Tunnel.
   - Rootless Podman, systemd user services, and daily/weekly backup rotation across dedicated HDDs.
 
 ## Featured Repositories
