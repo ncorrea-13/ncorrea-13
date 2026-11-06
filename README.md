@@ -6,7 +6,7 @@ Systems Engineering student and full-stack developer with a growing itch for inf
 
 ## Currently Working On
 
-- **AI Developer @ Rendel**
+- **AI Software Developer @ Rendel**
   - Designing and developing software solutions for production logistics systems.
   - Orchestrating AI agents to streamline software development and implementation.
   - Analyzing technical documentation and requirements to develop new modules and features.
