@@ -6,10 +6,10 @@ Systems Engineering student and full-stack developer with a growing itch for inf
 
 ## Currently Working On
 
-- **Full-stack Developer @ AYSAM**
-  - Building full-stack solutions within the Oracle Ecosystem.
-  - Designing and implementing secure RESTful APIs for production environments.
-  - Python microservices to hook up industrial systems through Docker.
+- **AI Developer @ Rendel**
+  - Designing and developing software solutions for production logistics systems.
+  - Orchestrating AI agents to streamline software development and implementation.
+  - Analyzing technical documentation and requirements to develop new modules and features.
 
 - **Systems Engineering Final Project @ UTN**
   - Building **PetHood**, a comprehensive platform connecting pet care services written in TypeScript.
